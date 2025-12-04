@@ -11,9 +11,9 @@ Three selectable options: Stone, Paper, Scissors
 
 ## *🧠 How It Works*
 When the user taps a button, the app:
-**1** Passes the corresponding enum value (Choice) to the play() function.
-**2** Randomly selects a computer choice.
-**3** Compares both choices.
-**4** Updates two labels:
+**1**. Passes the corresponding enum value (Choice) to the play() function.
+**2**. Randomly selects a computer choice.
+**3**. Compares both choices.
+**4**. Updates two labels:
  - Computer’s choice.
  - Result (Draw 🤝, You 🏆, or Lose 🥲).
